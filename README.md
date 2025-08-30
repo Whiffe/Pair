@@ -1,4 +1,7 @@
+# 博客
+[https://blog.csdn.net/WhiffeYF/article/details/150008499](https://blog.csdn.net/WhiffeYF/article/details/150008499)
 # **Jailbreaking Black Box Large Language Models in Twenty Queries**
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-blue)](https://jailbreaking-llms.github.io/)
