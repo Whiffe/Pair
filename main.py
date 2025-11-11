@@ -286,7 +286,7 @@ if __name__ == '__main__':
     parser.add_argument(
         "--attack-max-n-tokens",
         type=int,
-        default=2048,
+        default=4096,
         help="攻击模型生成的最大token数。"
     )
     parser.add_argument(
